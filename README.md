@@ -8,7 +8,7 @@ Folders include:
 - Final Deliverables: Poster, Presentation Decks, Video
 - Project Management: Project Timeline and NDAs
 - System > Code : All relevant coding files of data cleaning, pre-processing and analyses (All output in the coding files have been cleared due to data privacy issues.)
-- System > Dashboard : Screenshots of the dashboard with blurred views for data privacy purposes
+- System > Dashboard : Screenshots of the dashboard with blurred views for data privacy purposes, UAT Testcases, and Figma Ideation Process
 - User Guides: Guides for Data Analysts, Dashboard, and Business Users
 
 
